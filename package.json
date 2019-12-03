@@ -1,11 +1,11 @@
 {
-  "name": "fantasy-utils",
+  "name": "fantasy-fe-utils",
   "version": "1.0.0",
   "description": "bin's fantasy utils",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/fantasy-fe/fantasy-utils.git"
+    "url": "git://github.com/fantasy-fe/fantasy-fe-utils.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,5 +14,6 @@
     "utils"
   ],
   "author": "fantasy-fe",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {}
 }

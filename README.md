@@ -1,2 +1,2 @@
-# fantasy-utils
+# fantasy-fe-utils
 fantasy utils
