@@ -1,2 +1,0 @@
-# fantasy-utils
-fantasy utils

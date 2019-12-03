@@ -1,0 +1,14 @@
+{
+  "name": "fantasy-utils",
+  "version": "1.0.0",
+  "description": "bin's fantasy utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "utils"
+  ],
+  "author": "fantasy-fe",
+  "license": "ISC"
+}
